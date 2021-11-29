@@ -1,6 +1,6 @@
 # Encryption Algorithm
 
-Michael Ceccarelli and Rachael Harris
+Michael Ceccarelli ([@mceccarelli](https://github.com/mceccarelli)) and Rachael Harris
 
 Under the advisment of Dr. Aravind Mohan of the Allegheny College Computer Science Department
 

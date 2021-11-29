@@ -1,0 +1,28 @@
+strict digraph "" {
+	graph [bb="0,0,0,0",
+		ordering=out,
+		rankdir=TB
+	];
+	node [fontcolor=white,
+		label="\N",
+		shape=circle,
+		style=filled
+	];
+	7	[color=red];
+	2	[color=red];
+	7 -> 2;
+	11	[color=red];
+	7 -> 11;
+	1	[color=red];
+	2 -> 1;
+	5	[color=red];
+	2 -> 5;
+	8	[color=red];
+	11 -> 8;
+	14	[color=red];
+	11 -> 14;
+	4	[color=red];
+	1 -> 4;
+	15	[color=red];
+	1 -> 15;
+}

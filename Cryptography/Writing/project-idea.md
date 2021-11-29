@@ -1,0 +1,2 @@
+Our idea for the project is to implement RSA encryption and its algorithms.  This is going to require us to write a lot of methods that handle different mathematical operations, and we hope to be able to analyze the running time of each one, as well as have a comprehensive set of pseudocode for each of the
+methods that we implement.  If we have time, we will also build a decoder, one that tries to break the encryption and decode a message.

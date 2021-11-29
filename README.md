@@ -21,7 +21,7 @@ April 2021
 
 RSA is a type of encryption that has been around for decades, and is still in use today with many applications. Named after its founders' initials, RSA showcases a problem humans currently do not have an understanding of: factoring large numbers. Forty years later, we are still stuck on the same problem, making RSA still relevant today.
 
-However, it is important to note that in actual applications, RSA requires numbers that are simply beyond the scale of what we are able to do in a Java program. I believe the current standard is 2048 bit prime number, or one that is around 600 digits long. That's impossible to comprehend, and using numbers of that size require programs that are specialized to do so, like Wolfram Mathematica. Our primes will be chosen on a much smaller scale, so even though they won't technically be secure by any means, they will work for our example.
+However, it is important to note that in actual applications, RSA requires numbers that are simply beyond the scale of what we are able to do in a Java program. The current standard is 2048 bit prime number, or one that is around 600 digits long. That's impossible to comprehend, and using numbers of that size require programs that are specialized to do so, like Wolfram Mathematica. 
 
 ## Features
 
